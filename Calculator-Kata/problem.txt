@@ -1,0 +1,1 @@
+Write a calculator. Make it as simple or complex as you want. Try to mix up your implementation every time you attempt the exercise.

@@ -1,0 +1,1 @@
+This was a quick kata over a lunch period. I wanted to make a web binary calculator that would do some simple additions.
